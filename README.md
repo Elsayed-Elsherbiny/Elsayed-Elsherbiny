@@ -1,94 +1,51 @@
-<div align="center">
+# 💫 About Me:
+I'm Elsayed El-Sharbiny, <br>an undergraduate Computer Science student passionate about Data Science, Machine Learning, and Artificial Intelligence. I enjoy analyzing data, building predictive models, and transforming insights into meaningful solutions.<br><br>🔬 Machine Learning: Building predictive models and classification systems<br>🐍 Python Development: Advanced scripting and data analysis<br>🗄️ SQL: Database management and query optimization<br>📊 Data Visualization: Creating compelling data stories<br>🤖 AI Projects: Currently working on Customer Churn Prediction
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Elsayed%20El-Sherbiny&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=800&color=2DD4BF&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=Data+Scientist+%7C+AI+%26+Machine+Learning+Engineer;Transforming+Data+into+Actionable+Insights;Building+Intelligent+Systems+%7C+5%2B+Years+Experience;Specializing+in+Deep+Learning+%26+MLOps)](https://git.io/typing-svg)
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/elsayed11/) 
 
-<p align="center">
-  <a href="https://linkedin.com/in/elsayed-elsherbiny">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5" alt="LinkedIn"/>
-  </a>
-  <a href="https://github.com/elsayed-elsherbiny">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&labelColor=181717" alt="GitHub"/>
-  </a>
-  <a href="mailto:elsayed.elsherbiny@example.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836" alt="Email"/>
-  </a>
-  <a href="https://twitter.com/elsayed_ai">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=1DA1F2" alt="Twitter"/>
-  </a>
-</p>
+# 💻 Tech Stack:
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Elsayed-Elsherbiny&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Elsayed-Elsherbiny&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Elsayed-Elsherbiny&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=elsayed-elsherbiny&color=2dd4bf&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views"/>
-  <img src="https://img.shields.io/github/followers/elsayed-elsherbiny?label=Followers&style=for-the-badge&color=2dd4bf&labelColor=1a1b27" alt="Followers"/>
-  <img src="https://img.shields.io/github/stars/elsayed-elsherbiny?label=Stars&style=for-the-badge&color=2dd4bf&labelColor=1a1b27" alt="Stars"/>
-</p>
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Elsayed-Elsherbiny&theme=radical&no-frame=true&no-bg=false&margin-w=4)
 
-</div>
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=Elsayed-Elsherbiny&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
+[![](https://visitcount.itsvg.in/api?id=Elsayed-Elsherbiny&icon=10&color=12)](https://visitcount.itsvg.in)
 
-## 👨‍💻 About Me
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
-```python
-class DataScientist:
-    def __init__(self):
-        self.name = "Elsayed El-Sherbiny"
-        self.role = "Data Scientist | AI & ML Engineer"
-        self.experience = "5+ years"
-        self.focus = ["Machine Learning", "Deep Learning", "Data Analytics"]
-        
-    def expertise(self):
-        return {
-            "languages": ["Python", "R", "SQL", "JavaScript"],
-            "ml_frameworks": ["TensorFlow", "PyTorch", "Scikit-learn"],
-            "specialization": [
-                "End-to-end ML solutions",
-                "Production deployment",
-                "Business intelligence"
-            ]
-        }
-    
-    def current_mission(self):
-        return "Transforming complex data into actionable insights 🚀"
 
-me = DataScientist()
-```
 
----
 
-## 🛠️ Technology Stack
 
-<div align="center">
 
-### Languages & Core
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-### ML/AI Frameworks
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
 
-### Cloud & DevOps
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 
-### Tools & Platforms
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-![Apache Spark](https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apache-spark&logoColor=white)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
 
-</div>
 
----
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 ## 📊 GitHub Analytics
 
