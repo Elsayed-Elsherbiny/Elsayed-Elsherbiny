@@ -1,5 +1,16 @@
-# 💫 About Me:
-I'm Elsayed El-Sharbiny, <br>an undergraduate Computer Science student passionate about Data Science, Machine Learning, and Artificial Intelligence. I enjoy analyzing data, building predictive models, and transforming insights into meaningful solutions.<br><br>🔬 Machine Learning: Building predictive models and classification systems<br>🐍 Python Development: Advanced scripting and data analysis<br>🗄️ SQL: Database management and query optimization<br>📊 Data Visualization: Creating compelling data stories<br>🤖 AI Projects: Currently working on Customer Churn Prediction
+# 👋 Hello! I'm Elsayed El-Sharbiny
+
+## 🎓 About Me: Data Science & AI Enthusiast
+
+I'm an ambitious undergraduate Computer Science student with a strong passion for **Data Science, Machine Learning, and Artificial Intelligence**. I thrive on leveraging data to drive actionable insights and build robust predictive solutions.
+
+### My Core Focus Areas:
+
+* **🔬 Machine Learning:** Expertise in building predictive models, classification systems, and deep learning architectures.
+* **🐍 Python Development:** Advanced scripting, data manipulation, and building scalable data pipelines.
+* **🗄️ SQL & Databases:** Efficient database management and query optimization for large datasets.
+* **📊 Data Visualization:** Translating complex data into clear, compelling, and actionable stories.
+* **🤖 Current Project:** Developing an **AI Customer Churn Prediction System**.
 
 
 ## 🌐 Socials:
